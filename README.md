@@ -1,2 +1,2 @@
-# PO_Unive_Project
-Project for Object-Oriented Programming at Ca' Foscari University
+# Object-oriented programming project
+Project for Object-oriented programming course at Ca' Foscari University
